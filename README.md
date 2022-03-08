@@ -10,3 +10,8 @@ a "blockchain" ledger digital ID system using QR codes, image manipulation and U
 - userfriendly, understandable by normal people while still being complex.
 - small and fast, whats the point if it takes computers too long to be able to use and requires too much expensive hardware to run. 
 - semi customizeable, why have something thats no fun?
+
+
+# Purpose / Use cases. 
+  The purpose of LID is to be able to have a way to verify ownership of digital assets without the massive hassle of programming knowledge etc.
+  
